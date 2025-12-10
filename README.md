@@ -1,67 +1,102 @@
-<!-- NEON INTRO -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Neon&size=35&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Ankit+Kumar!;Full+Stack+Developer;Open+Source+Contributor;AI/ML+Explorer;Welcome+to+My+GitHub!">
+  <img src="https://i.imgur.com/VzvcQhy.png" width="100%" alt="Banner">
 </p>
 
----
-
-# 💫 About Me
-
-```diff
-+ 🔥 Full Stack Developer | MERN | JavaScript | AI/ML Explorer
-+ 🎓 Newton School of Technology, Pune
-+ 🏡 Sasaram, Bihar
-+ 📫 Email: 208ankitkumarssm@gmail.com
-+ 📞 Contact: 7645827068
-+ 🚀 Love building scalable real-world products
-+ 💡 Always learning, improving & innovating
-
-## 🚀 My Tech Stack
-
-### 🔹 Languages & Frameworks
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🔹 Databases
-![MongoDB](https://img.shields.io/badge/MONGODB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🔹 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Rasa](https://img.shields.io/badge/RASA-5A17EE?style=for-the-badge&logo=rasa&logoColor=white)
-![Numpy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">Full-Stack Developer | MERN | Problem Solver | Open Source Enthusiast</h3>
 
 ---
 
-## 🧩 Icon Style (Rounded)
+## 🚀 About Me
+🔹 Passionate Full-Stack Developer  
+🔹 Love building scalable apps & solving complex problems  
+🔹 Always learning — always shipping  
+🔹 Open to collaborations, freelance & internships  
 
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="50"/>
-  <img src="https://skillicons.dev/icons?i=replit" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
 </p>
+
+### **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
+</p>
+
+### **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### **DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,netlify,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar&theme=tokyonight" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar&layout=compact&theme=tokyonight" height="160px" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitkumar&theme=onedark&no-frame=true&no-bg=false&margin-w=15" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Chat Application (MERN + Socket.io)**
+Real-time messaging, typing indicators, push notifications  
+👉 *Repo link here*
+
+### 🔹 **E-Commerce Platform**
+Full authentication, cart, orders, payments  
+👉 *Repo link here*
+
+### 🔹 **Portfolio Website**
+Modern responsive portfolio  
+👉 *Repo link here*
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/ankitkumar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:ankit@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/ankit"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+
+## ❤️ Support
+If you like my work, consider giving a ⭐ to my repositories!
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/kXUj6zF.gif" width="400px" />
+</p>
+
+
