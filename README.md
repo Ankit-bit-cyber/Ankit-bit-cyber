@@ -37,9 +37,9 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/ankitkumar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:ankit@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://twitter.com/ankit"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  
+
+
 </p>
 
 
